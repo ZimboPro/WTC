@@ -1,0 +1,46 @@
+Patrick
+add acb r1, r2, r3
+aff acb r1
+fork
+lfork
+live
+lldi
+lld
+
+Leslie
+and
+ld
+lldi
+or
+
+
+still to do
+sti
+
+Done
+and
+or
+xor
+add
+sub
+ldi
+lldi
+st
+fork
+live
+
+To check
+Leslie
+ld
+lld
+sti
+
+Patrick
+aff
+lfork
+zjump
+
+Still to do
+Change root make file to only compile and relink code if nessesary
+remove print arean from vm.h and all other debuging code
+check for memory leaks
