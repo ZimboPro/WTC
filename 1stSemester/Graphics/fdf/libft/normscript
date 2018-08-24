@@ -1,0 +1,8 @@
+norminette ft_str*.c
+norminette ft_mem*.c
+norminette ft_is*.c
+norminette ft_put*.c
+norminette ft_atoi.c
+norminette ft_itoa.c
+norminette ft_bzero.c
+norminette ft_to*.c
